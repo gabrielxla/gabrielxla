@@ -4,7 +4,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielxla)](https://github.com/gabrielxla/github-readme-stats)
 
+* Tecnologias Utilizadas
 
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" widht=90 height=90> <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" widht=90 height=90> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" widht=90 height=90><img src="https://img.icons8.com/?size=100&id=tpIcYSg4KMn0&format=png&color=000000" widht=90 height=90>
 
 
 
