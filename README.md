@@ -6,7 +6,7 @@
 
 * Tecnologias Utilizadas
 
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" widht=90 height=90> <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" widht=90 height=90> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" widht=90 height=90><img src="https://img.icons8.com/?size=100&id=tpIcYSg4KMn0&format=png&color=000000" widht=90 height=90> <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" widht=90 height=90> <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" widht=90 height=90> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" widht=90 height=90><img src="https://img.icons8.com/?size=100&id=tpIcYSg4KMn0&format=png&color=000000" widht=90 height=90> <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" widht=90 height=90>
 
 
 
