@@ -2,7 +2,7 @@
 
 * Estatísticas do meu github
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielxla)](https://github.com/gabrielxla/github-readme-stats)
+![Gabrielxla GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielxla&show_icons=true&theme=dark)
 
 * Tecnologias Utilizadas
 
